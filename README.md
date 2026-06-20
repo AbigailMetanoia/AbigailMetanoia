@@ -12,7 +12,7 @@ Passionate about designing intuitive digital experiences and transforming ideas 
 
 ---
 
-## 🌸 About Me
+## ⚡️ About Me
 
 🌐 Portfolio:
 **https://abigailmetanoia.vercel.app**
