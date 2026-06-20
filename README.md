@@ -14,16 +14,6 @@ Passionate about designing intuitive digital experiences and transforming ideas 
 
 ## 🌸 About Me
 
-🎓 Informatics Graduate from Diponegoro University
-
-🍎 Apple Developer Academy Cohort 2026
-
-🎨 Passionate in UI/UX Design, Product Design, and User Research
-
-💡 Interested in Human-Centered Design, Accessibility, and Digital Innovation
-
-🚀 Currently exploring Product Design and Frontend Development
-
 🌐 Portfolio:
 **https://abigailmetanoia.vercel.app**
 
