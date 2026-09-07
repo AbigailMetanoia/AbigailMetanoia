@@ -15,7 +15,7 @@ Passionate about designing intuitive digital experiences and transforming ideas 
 ## ⚡️ About Me
 
 🌐 Portfolio:
-**https://abigailmetanoia.vercel.app**
+**https://abigailmetanoia.click**
 
 📩 Email:
 **abigailmetanoia17@gmail.com**
